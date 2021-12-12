@@ -1,6 +1,6 @@
 body{
 	background-color: black;
-	background-image: url("xiaohei.jpg");
+	background-image: url("1.jpg");
 	background-size: cover;
 }
 div{
@@ -22,7 +22,7 @@ p{
 }
 #container{
     background-color: white;
-    opacity: 60%
+    opacity: 60%;
     /*背景颜色与透明度*/
     height: 500px;
     width: 500px;
@@ -30,9 +30,9 @@ p{
     margin: auto;
     top: 100px；
     /*居中 距离上方100px*/
-border-radius: 50px;
+    border-radius: 50px;
 }
 #title p{
 	font-size: 40px;
-	/*字体大小
+	/*字体大小*/
 }
